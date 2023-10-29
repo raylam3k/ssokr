@@ -5,7 +5,6 @@ import icecream as ic   # do pip install icecream in terminal
 for i in range(10):
     print( i )
 
-
 for j in ( 'a', 'b', 'c'):
     print( j)
 
@@ -14,3 +13,4 @@ b = np.arange(20)
 
 c = pd.DataFrame()
 print( c )
+
