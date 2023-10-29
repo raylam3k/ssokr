@@ -1,4 +1,10 @@
 # ssokr
+
+Python examples
+- Install github codespaces into vscode to connect to github accont
+- can now check codes in
+- apparently packages are resolvable (numpay and pandas)
+
 OKR for SSABF
 - Internal Platform
 - Build OMS
